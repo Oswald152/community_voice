@@ -1,0 +1,11 @@
+# Database connection / secrets
+config/db_connect.php
+
+# Local environment files
+.env
+
+# XAMPP / local files
+*.log
+
+# Git
+.git/
